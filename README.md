@@ -95,7 +95,3 @@ Com base nos resultados apresentados para os três algoritmos de ordenação, a 
 ## Conclusão
 
 Com base no **número de trocas realizadas**, o **Selection Sort** é o algoritmo mais eficiente em geral, especialmente para vetores em ordem decrescente e não ordenados. O **Insertion Sort** é uma boa opção para vetores parcialmente ordenados, enquanto o **Bubble Sort** é o menos eficiente, exigindo mais trocas em vetores inversamente ordenados.
-
----
-
-Caso tenha sugestões ou feedback, fique à vontade para entrar em contato.
